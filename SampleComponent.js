@@ -44,4 +44,4 @@ const SampleComponent = () => {
     }
   }
 
-export default SampleComponent;
+export default SampleComponent; 
